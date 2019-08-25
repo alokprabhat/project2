@@ -20,6 +20,6 @@ public class Temp {
 		list.add(7);
 		list.add(8);
 		
-		System.out.println("list >>:"+list);
+		System.out.println("list >>>:"+list);
 	}
 }
